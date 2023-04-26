@@ -115,7 +115,9 @@ function Navbar() {
         >
           My Work
         </li>
-        <li className="p-3 border-b border-gray-600 hover:cursor-pointer">
+        <li className="p-3 border-b border-gray-600 hover:cursor-pointer"
+          // onClick={()=> LinkFn("")}
+        >
           Resume
         </li>
         {/* <li>(+91) 9619 386 916</li> */}
